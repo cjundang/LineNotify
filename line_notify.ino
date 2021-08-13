@@ -5,11 +5,11 @@ void Line_Notify(String message) ;
 #include <ESP8266WiFi.h>
 
 // Config connect WiFi
-#define WIFI_SSID "UbiNES"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "xxxxxx"
+#define WIFI_PASSWORD "xxxxx"
 
 // Line config
-#define LINE_TOKEN "yrGpbA8G2AuJ4yZDLmNMo70RB8F71XHIHJKMVLwogtr"
+#define LINE_TOKEN "xxxxxxxx"
 
 #define SW D2
 
